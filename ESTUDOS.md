@@ -1,4 +1,4 @@
- - [X] Aprender sobre HTML
+ - [ ] Aprender sobre HTML
  - [ ] Fazer resumos sobre JAVA SCRIPT
  - [ ] Aulas sobre IDLE e AWS
  - [ ] Aprender mais sobre conceitos de Cloud
